@@ -1,5 +1,5 @@
 {
-  "user": [{
+  "user": {
     "name": "Jhonatan",
     "lastname" : "Gaviria Méndez",
     "job_title" : "Desarrollador",
@@ -18,5 +18,5 @@
         "job_title" : "Desarrollador JR",
         "desc" : "example example"
     }]
-  }]
+  }
 }
