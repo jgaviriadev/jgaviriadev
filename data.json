@@ -1,22 +1,20 @@
 {
-  "user": {
-    "name": "Jhonatan",
-    "lastname" : "Gaviria Méndez",
-    "job_title" : "Desarrollador",
-    "age": 25,
-    "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
-    "experience": [{
-        "company" : "Myadtech",
-        "beginning" : "08-2022",
-        "finished" : "12-2022",
-        "job_title" : "Desarrollador JR",
-        "desc" : "example example"
-    },{
-        "company" : "TEMGIC Ingenieros",
-        "beginning" : "08-2022",
-        "finished" : "12-2022",
-        "job_title" : "Desarrollador JR",
-        "desc" : "example example"
-    }]
-  }
+  "name": "Jhonatan",
+  "lastname" : "Gaviria Méndez",
+  "job_title" : "Desarrollador",
+  "age": 25,
+  "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
+  "experience": [{
+      "company" : "Myadtech",
+      "beginning" : "08-2022",
+      "finished" : "12-2022",
+      "job_title" : "Desarrollador JR",
+      "desc" : "example example"
+  },{
+      "company" : "TEMGIC Ingenieros",
+      "beginning" : "08-2022",
+      "finished" : "12-2022",
+      "job_title" : "Desarrollador JR",
+      "desc" : "example example"
+  }]
 }
