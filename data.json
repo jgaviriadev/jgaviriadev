@@ -1,7 +1,8 @@
 {
-  "people": [{
+  "user": [{
     "name": "Jhonatan",
     "lastname" : "Gaviria Méndez",
+    "job_title" : "Desarrollador",
     "age": 25,
     "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
     "experience": [{
