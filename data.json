@@ -18,5 +18,15 @@
       "finished" : "12-2022",
       "job_title" : "Desarrollador JR",
       "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
-  }]
+  }],
+  "skills": [{
+    "name" : "Flutter",
+    "img" : "https://miro.medium.com/max/320/0*ObJbOfJnx4QIPUq9.png"
+},{
+    "name" : "Dart",
+    "img" : "https://miro.medium.com/max/320/0*ObJbOfJnx4QIPUq9.png"
+},{
+    "name" : "JavaScript",
+    "img" : "https://miro.medium.com/max/320/0*ObJbOfJnx4QIPUq9.png"
+}]
 }
