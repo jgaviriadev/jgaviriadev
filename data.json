@@ -19,7 +19,7 @@
       "job_title" : "Desarrollador JR",
       "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
   }],
-  "skills": [{
+  "skill": [{
     "name" : "Flutter",
     "img" : "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/flutter_logo.png"
 },{
