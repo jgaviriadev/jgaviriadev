@@ -21,12 +21,12 @@
   }],
   "skills": [{
     "name" : "Flutter",
-    "img" : "https://miro.medium.com/max/320/0*ObJbOfJnx4QIPUq9.png"
+    "img" : "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/flutter_logo.png"
 },{
     "name" : "Dart",
-    "img" : "https://miro.medium.com/max/320/0*ObJbOfJnx4QIPUq9.png"
+    "img" : "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/dart_logo.png"
 },{
     "name" : "JavaScript",
-    "img" : "https://miro.medium.com/max/320/0*ObJbOfJnx4QIPUq9.png"
+    "img" : "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/js_logo.png"
 }]
 }
