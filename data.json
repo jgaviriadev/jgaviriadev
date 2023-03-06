@@ -10,14 +10,16 @@
       "beginning" : "08-2022",
       "finished" : "12-2022",
       "job_title" : "Desarrollador JR",
-      "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "technologies" : "Dart, Flutter, Git"
   },{
       "company" : "TEMGIC Ingenieros",
       "country" : "Colombia",
       "beginning" : "08-2022",
       "finished" : "12-2022",
       "job_title" : "Desarrollador JR",
-      "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "technologies" : "JS, Flutter, Git"
   }],
   "skill": [{
     "name" : "Flutter",
