@@ -35,7 +35,7 @@
     }]
 },{
     "name" : "Pokedex",
-    "platform" : "WEB",
+    "platform" : "APP",
     "desc" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
     "technologies" : "Dart, Flutter, Git",
     "img" : [{
