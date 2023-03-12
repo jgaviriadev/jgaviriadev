@@ -58,5 +58,29 @@
 },{
     "name" : "NodeJS",
     "img" : "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/node_js_logo.png"
+}
+,{
+    "name" : "Bootstrap",
+    "img" : "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/bootstrap_logo.png"
+}
+,{
+    "name" : "HTML5",
+    "img" : "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/html5_logo.png"
+}
+,{
+    "name" : "CCS",
+    "img" : "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/css3_logo.png"
+}
+,{
+    "name" : "GIT",
+    "img" : "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/git_logo.png"
+}
+,{
+    "name" : "Photoshop",
+    "img" : "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/photoshop_logo.png"
+}
+,{
+    "name" : "Figma",
+    "img" : "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/figma_logo.png"
 }]
 }
