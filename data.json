@@ -4,7 +4,7 @@
   "job_title": "Desarrollador",
   "age": 25,
   "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
-  "experience": [
+  "experiences": [
     {
       "company": "Myadtech",
       "location": "REMOTO",
@@ -24,7 +24,7 @@
       "technologies": "JS, Flutter, Git"
     }
   ],
-  "project": [
+  "projects": [
     {
       "name": "Portfolio APP",
       "platform": "Móvil",
@@ -60,7 +60,7 @@
       ]
     }
   ],
-  "skill": [
+  "skills": [
     {
       "name": "Flutter",
       "img": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/flutter_logo.png"
