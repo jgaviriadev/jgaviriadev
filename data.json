@@ -107,19 +107,22 @@
       "name": "INGENIERO DE SISTEMAS",
       "university": "Unitrópico",
       "date": "2016 - 2022",
-      "level": "SUPERIOR"
+      "level": "SUPERIOR",
+      "location": "Yopal - Casanare"
     },
     {
       "name": "TECNÓLOGO EN DISEÑO Y DESARROLLO DE SOFTWARE",
       "university": "Unitrópico",
       "date": "2016 - 2019",
-      "level": "TECNOLÓGICA"
+      "level": "TECNOLÓGICA",
+      "location": "Yopal - Casanare"
     },
     {
-      "name": "TÉCNICO PROFESIONAL EN DESARROLLO PARA DISPOSITIVOS MOVILES",
+      "name": "TÉCNICO EN DESARROLLO PARA DISPOSITIVOS MOVILES",
       "university": "Unitrópico",
       "date": "2016 - 2019",
-      "level": "TÉCNICA"
+      "level": "TÉCNICA",
+      "location": "Yopal - Casanare"
     }
   ]
 }
