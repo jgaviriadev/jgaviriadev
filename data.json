@@ -43,19 +43,19 @@
       ]
     },
     {
-      "name": "Pokedex",
-      "platform": "Móvil",
+      "name": "OFFSIDE YOPAL",
+      "platform": "WEB",
       "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "technologies": "Dart, Flutter, Git",
+      "technologies": "HTML, CSS, JS",
       "img": [
         {
-          "url": "https://picsum.photos/400/200"
+          "url": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/projects/offside/off1.png"
         },
         {
-          "url": "https://picsum.photos/400/200"
+          "url": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/projects/offside/off2.png"
         },
         {
-          "url": "https://picsum.photos/400/200"
+          "url": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/projects/offside/off3.png"
         }
       ]
     }
