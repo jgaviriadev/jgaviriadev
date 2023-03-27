@@ -43,6 +43,23 @@
       ]
     },
     {
+      "name": "OPERACIONES CON CONJUNTOS",
+      "platform": "Móvil",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "technologies": "Java",
+      "img": [
+        {
+          "url": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/projects/offside/off1.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/projects/offside/off2.png"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/projects/offside/off3.png"
+        }
+      ]
+    },
+    {
       "name": "OFFSIDE YOPAL",
       "platform": "WEB",
       "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
