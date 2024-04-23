@@ -13,7 +13,7 @@
 - 🌐 &nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=00bef8)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=01579b)
-  ![C#](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=c#)
+  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=csharp)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=00bef8)
   ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro&logoColor=FFFFFF)
