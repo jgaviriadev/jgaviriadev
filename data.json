@@ -31,15 +31,7 @@
       "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "technologies": "Dart, Flutter, Git",
       "img": [
-        {
-          "url": "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg"
-        },
-        {
-          "url": "https://picsum.photos/400/200"
-        },
-        {
-          "url": "https://picsum.photos/400/200"
-        }
+        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg"
       ]
     },
     {
@@ -48,15 +40,7 @@
       "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "technologies": "Java",
       "img": [
-        {
-          "url": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/projects/offside/off1.png"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/projects/offside/off2.png"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/projects/offside/off3.png"
-        }
+        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg"
       ]
     },
     {
@@ -65,15 +49,7 @@
       "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "technologies": "HTML, CSS, JS",
       "img": [
-        {
-          "url": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/projects/offside/off1.png"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/projects/offside/off2.png"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/projects/offside/off3.png"
-        }
+        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg"
       ]
     }
   ],
