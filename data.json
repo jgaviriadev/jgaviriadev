@@ -5,6 +5,8 @@
   "job_title": "Desarrollador",
   "age": 25,
   "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
+  "phone" : "+57 3142196320",
+  "summary" : "Hello, I'm Jhonatan Gaviria. I'm a Systems Engineer specialized in developing elegant mobile applications and websites. I stay updated on the latest technologies and focus on providing exceptional user experiences. My approach revolves around innovative and functional solutions.",
   "experiences": [
     {
       "company": "Myadtech",
