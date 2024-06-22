@@ -2,9 +2,7 @@
   "email": "contac@jhonatangaviria.com",
   "name": "Jhonatan",
   "lastname": "Gaviria Méndez",
-  "job_title": "Desarrollador",
-  "age": 25,
-  "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
+  "job_title": "Developer",
   "phone" : "+57 3142196320",
   "summary" : "Hello, I'm Jhonatan Gaviria. I'm a Systems Engineer specialized in developing elegant mobile applications and websites. I stay updated on the latest technologies and focus on providing exceptional user experiences. My approach revolves around innovative and functional solutions.",
   "experiences": [
@@ -14,7 +12,12 @@
       "beginning": "08-2022",
       "finished": "12-2022",
       "job_title": "Desarrollador JR",
-      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "desc": [
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "Ut voluptate aliquip mollit do.",
+        "Pariatur ut adipisicing non minim quis deserunt.",
+        "Aliqua commodo ea aliquip incididunt cupidatat eiusmod sunt fugiat occaecat."
+      ],
       "technologies": "Dart, Flutter, Git"
     },
     {
@@ -23,14 +26,19 @@
       "beginning": "08-2022",
       "finished": "12-2022",
       "job_title": "Desarrollador JR",
-      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "desc": [
+        "Sunt ullamco deserunt qui aliqua.",
+        "Consectetur amet qui consequat cillum qui tempor id.",
+        "Aute est esse qui eiusmod aliqua.",
+        "Officia ut duis anim esse cillum sint."
+      ],
       "technologies": "JS, Flutter, Git"
     }
   ],
   "projects": [
     {
       "name": "Conteo Despensa",
-      "isMobile": true,
+      "platform": "App Mobile",
       "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "technologies": "Dart, Flutter, Git",
       "img": [
@@ -40,7 +48,7 @@
     },
     {
       "name": "Operaciones con conjuntos",
-      "isMobile": true,
+      "platform": "App Mobile",
       "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "technologies": "Java",
       "img": [
@@ -50,7 +58,7 @@
     },
     {
       "name": "Porfolio App",
-      "isMobile": true,
+      "platform": "App Mobile",
       "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
       "technologies": "HTML, CSS, JS",
       "img": [
