@@ -1,0 +1,141 @@
+{
+  "email": "contac@jhonatangaviria.com",
+  "name": "Jhonatan",
+  "lastname": "Gaviria Méndez",
+  "job_title": "Developer",
+  "phone" : "+57 3142196320",
+  "summary" : "Hello, I'm Jhonatan Gaviria. I'm a Systems Engineer specialized in developing elegant mobile applications and websites. I stay updated on the latest technologies and focus on providing exceptional user experiences. My approach revolves around innovative and functional solutions.",
+  "experiences": [
+    {
+      "company": "Myadtech",
+      "location": "REMOTE",
+      "beginning": "08-2022",
+      "finished": "12-2022",
+      "job_title": "Desarrollador JR",
+      "desc": [
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "Ut voluptate aliquip mollit do.",
+        "Pariatur ut adipisicing non minim quis deserunt.",
+        "Aliqua commodo ea aliquip incididunt cupidatat eiusmod sunt fugiat occaecat."
+      ],
+      "technologies": "Dart, Flutter, Git"
+    },
+    {
+      "company": "TEMGIC Ingenieros",
+      "location": "REMOTE",
+      "beginning": "08-2022",
+      "finished": "12-2022",
+      "job_title": "Desarrollador JR",
+      "desc": [
+        "Sunt ullamco deserunt qui aliqua.",
+        "Consectetur amet qui consequat cillum qui tempor id.",
+        "Aute est esse qui eiusmod aliqua.",
+        "Officia ut duis anim esse cillum sint."
+      ],
+      "technologies": "JS, Flutter, Git"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Conteo Despensa",
+      "platform": "App Mobile",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "technologies": "Dart, Flutter, Git",
+      "img": [
+        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg",
+        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg",
+        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg"
+      ],
+      "url" : ""
+    },
+    {
+      "name": "Operaciones con conjuntos",
+      "platform": "App Mobile",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "technologies": "Java",
+      "img": [
+        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg",
+        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg",
+        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg"
+      ],
+      "url" : ""
+    },
+    {
+      "name": "Porfolio App",
+      "platform": "App Mobile",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "technologies": "HTML, CSS, JS",
+      "img": [
+        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg",
+        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg",
+        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg"
+      ],
+      "url" : ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Flutter",
+      "img": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/flutter_logo.png"
+    },
+    {
+      "name": "Dart",
+      "img": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/dart_logo.png"
+    },
+    {
+      "name": "JavaScript",
+      "img": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/js_logo.png"
+    },
+    {
+      "name": "NodeJS",
+      "img": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/node_js_logo.png"
+    },
+    {
+      "name": "Bootstrap",
+      "img": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/bootstrap_logo.png"
+    },
+    {
+      "name": "HTML5",
+      "img": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/html5_logo.png"
+    },
+    {
+      "name": "CCS",
+      "img": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/css3_logo.png"
+    },
+    {
+      "name": "GIT",
+      "img": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/git_logo.png"
+    },
+    {
+      "name": "Photoshop",
+      "img": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/photoshop_logo.png"
+    },
+    {
+      "name": "Figma",
+      "img": "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/main/assets/figma_logo.png"
+    }
+  ],
+  "studies": [
+    {
+      "name": "INGENIERO DE SISTEMAS",
+      "university": "Unitrópico",
+      "date": "2016 - 2022",
+      "level": "SUPERIOR",
+      "location": "Yopal - Casanare"
+    },
+    {
+      "name": "TECNÓLOGO EN DISEÑO Y DESARROLLO DE SOFTWARE",
+      "university": "Unitrópico",
+      "date": "2016 - 2019",
+      "level": "TECNOLÓGICA",
+      "location": "Yopal - Casanare"
+    },
+    {
+      "name": "TÉCNICO EN DESARROLLO PARA DISPOSITIVOS MOVILES",
+      "university": "Unitrópico",
+      "date": "2016 - 2019",
+      "level": "TÉCNICA",
+      "location": "Yopal - Casanare"
+    }
+  ]
+}
