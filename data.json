@@ -72,7 +72,7 @@
     },
     {
       "name": "Operaciones con conjuntos",
-      "platform": "Aplicación móvil",
+      "platform": "Mobile App",
       "desc": "Mobile app 'Operations with Sets' developed in Java (2017). Uploaded to the Play Store with over 70,000 downloads (currently being restructured with Flutter).",
       "technologies": "Java",
       "img": [
