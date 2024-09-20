@@ -1,5 +1,5 @@
 {
-  "email": "contac@jhonatangaviria.com",
+  "email": "gmjhonatan19@gmail.com",
   "name": "Jhonatan",
   "lastname": "Gaviria Méndez",
   "job_title": "Desarrollador Móvil",
@@ -8,12 +8,12 @@
   "experiences": [
     {
       "company": "ControlBox",
-      "location": "REMOTO",
+      "location": "REMOTE",
       "beginning": "04-2023",
       "finished": "Actual",
       "job_title": "Desarrollador Flutter",
       "desc": [
-        "Desarrollo de aplicaciones móviles para Android e iOS. ",
+        "Desarrollo de aplicaciones móviles para Android e iOS.",
         "Creación de interfaces de usuario atractivas y funcionales.",
         "Integración de servicios y APIs",
         "Despliegue de aplicaciones en la Apple App Store y Google Play Store."
