@@ -2,45 +2,67 @@
   "email": "contac@jhonatangaviria.com",
   "name": "Jhonatan",
   "lastname": "Gaviria Méndez",
-  "job_title": "Developer",
+  "job_title": "Desarrollador Móvil",
   "phone" : "+57 3142196320",
-  "summary" : "Hello, I'm Jhonatan Gaviria. I'm a Systems Engineer specialized in developing elegant mobile applications and websites. I stay updated on the latest technologies and focus on providing exceptional user experiences. My approach revolves around innovative and functional solutions.",
+  "summary" : "Hola, Soy Jhonatan Gaviria. Soy Ingeniero de Sistemas especializado en el desarrollo de aplicaciones móviles y sitios web elegantes. Me mantengo actualizado en las últimas tecnologías y me enfoco en brindar experiencias de usuario excepcionales. Dominio de Flutter para Android e iOS. Enfoque en soluciones innovadoras y funcionales.",
   "experiences": [
     {
-      "company": "Myadtech",
-      "location": "REMOTE",
-      "beginning": "08-2022",
-      "finished": "12-2022",
-      "job_title": "Desarrollador JR",
+      "company": "ControlBox",
+      "location": "REMOTO",
+      "beginning": "04-2023",
+      "finished": "Actual",
+      "job_title": "Desarrollador Flutter",
       "desc": [
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-        "Ut voluptate aliquip mollit do.",
-        "Pariatur ut adipisicing non minim quis deserunt.",
-        "Aliqua commodo ea aliquip incididunt cupidatat eiusmod sunt fugiat occaecat."
+        "Desarrollo de aplicaciones móviles para Android e iOS. ",
+        "Creación de interfaces de usuario atractivas y funcionales.",
+        "Integración de servicios y APIs",
+        "Despliegue de aplicaciones en la Apple App Store y Google Play Store."
       ],
-      "technologies": "Dart, Flutter, Git"
+      "technologies": "Flutter, Java, SQL, Jira, Git"
     },
     {
-      "company": "TEMGIC Ingenieros",
-      "location": "REMOTE",
+      "company": "Myadtech",
+      "location": "REMOTO",
       "beginning": "08-2022",
       "finished": "12-2022",
-      "job_title": "Desarrollador JR",
+      "job_title": "Desarrollador Móvil",
       "desc": [
-        "Sunt ullamco deserunt qui aliqua.",
-        "Consectetur amet qui consequat cillum qui tempor id.",
-        "Aute est esse qui eiusmod aliqua.",
-        "Officia ut duis anim esse cillum sint."
+        "Reestructuración de módulos web con Flutter.",
+        "Apoyo en desarrollo de App principal con Flutter."
       ],
-      "technologies": "JS, Flutter, Git"
+      "technologies": "Flutter, Graphql, Git, Jira"
     }
   ],
   "projects": [
     {
+      "name": "MAVAR",
+      "platform": "Aplicación móvil",
+      "desc": "Plataforma de gestión de préstamos diseñada para facilitar el registro y seguimiento de los pagos de préstamos.",
+      "technologies": "Dart, Flutter, Git, Firebase",
+      "img": [
+        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg",
+        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg",
+        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg"
+      ],
+      "url" : ""
+    },
+    {
+      "name": "JGaviriaDEV - Portafolio",
+      "platform": "Aplicación móvil",
+      "desc": "Aplicación que presenta proyectos de desarrollo en diversas tecnologías, con una interfaz intuitiva y optimizada para Android e iOS. Incluye descripciones detalladas y destaca la integración de servicios y APIs.",
+      "technologies": "Flutter, Git",
+      "img": [
+        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg",
+        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg",
+        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg"
+      ],
+      "url" : ""
+    },
+    {
       "name": "Conteo Despensa",
-      "platform": "App Mobile",
-      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "technologies": "Dart, Flutter, Git",
+      "platform": "Aplicación móvil",
+      "desc": "Plataforma de gestión de préstamos diseñada para facilitar el registro y seguimiento de los pagos de préstamos.",
+      "technologies": "Dart, Flutter, Git, Firebase",
       "img": [
         "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg",
         "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg",
@@ -50,21 +72,9 @@
     },
     {
       "name": "Operaciones con conjuntos",
-      "platform": "App Mobile",
-      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "platform": "Aplicación móvil",
+      "desc": "Aplicativo móvil “Operaciones con Conjuntos” desarrollado (2017) en Java. Subido a la Play Store. Más de 70 mil descargas (en proceso de reestructuración con Flutter).",
       "technologies": "Java",
-      "img": [
-        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg",
-        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg",
-        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg"
-      ],
-      "url" : ""
-    },
-    {
-      "name": "Porfolio App",
-      "platform": "App Mobile",
-      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-      "technologies": "HTML, CSS, JS",
       "img": [
         "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg",
         "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg",
