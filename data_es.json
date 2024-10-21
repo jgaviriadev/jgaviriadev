@@ -5,6 +5,8 @@
   "job_title": "Desarrollador Móvil",
   "phone" : "+57 3142196320",
   "summary" : "Hola, Soy Jhonatan Gaviria. Soy Ingeniero de Sistemas especializado en el desarrollo de aplicaciones móviles y sitios web elegantes. Me mantengo actualizado en las últimas tecnologías y me enfoco en brindar experiencias de usuario excepcionales. Dominio de Flutter para Android e iOS. Enfoque en soluciones innovadoras y funcionales.",
+  "github" : "https://github.com/jgaviriadev",
+  "linkedin" : "https://www.linkedin.com/in/jhonatangaviria/",
   "experiences": [
     {
       "company": "ControlBox",
@@ -46,14 +48,13 @@
       "url" : ""
     },
     {
-      "name": "JGaviriaDEV - Portafolio",
+      "name": "Gaviriapp - Portafolio",
       "platform": "Aplicación móvil",
       "desc": "Aplicación que presenta proyectos de desarrollo en diversas tecnologías, con una interfaz intuitiva y optimizada para Android e iOS. Incluye descripciones detalladas y destaca la integración de servicios y APIs.",
       "technologies": "Flutter, Git",
       "img": [
-        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg",
-        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg",
-        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg"
+        "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/refs/heads/main/assets/projects/portfolio-app/gaviriapp1.png",
+        "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/refs/heads/main/assets/projects/portfolio-app/gaviriapp2.png"
       ],
       "url" : ""
     },
@@ -73,9 +74,7 @@
       "desc": "Aplicativo móvil “Operaciones con Conjuntos” desarrollado (2017) en Java. Subido a la Play Store. Más de 70 mil descargas (en proceso de reestructuración con Flutter).",
       "technologies": "Java",
       "img": [
-        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg",
-        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg",
-        "https://user-images.githubusercontent.com/112532720/222575779-54e20cd5-61af-46d0-92c8-6718a4d9ec09.jpg"
+        "https://raw.githubusercontent.com/jgaviriadev/jgaviriadev/refs/heads/main/assets/projects/operaciones_conjuntos/op1.png"
       ],
       "url" : ""
     }
